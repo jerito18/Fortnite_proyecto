@@ -66,6 +66,9 @@ position: relative;
 top: -90px;
 left: 0;
 }
+.img3{
+    width: 263px;
+}
 .nuevo2 img{
     position: absolute;    
     top: 750px;
@@ -76,9 +79,7 @@ left: 0;
 }
 .img3 section{
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    align-items: stretch;
+    flex-direction: row;  
 }
 
 
