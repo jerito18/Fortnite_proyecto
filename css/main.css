@@ -71,10 +71,15 @@ left: 0;
     top: 750px;
     left: 600px;
 }
-.nuevo .nuevo2 img:hover{
+ .nuevo .nuevo2 img:hover{
     transform:scale(1.3);
 }
-
+.img3 img{
+    position: relative;
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 
 
