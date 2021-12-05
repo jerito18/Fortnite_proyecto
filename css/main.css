@@ -74,11 +74,11 @@ left: 0;
  .nuevo .nuevo2 img:hover{
     transform:scale(1.3);
 }
-.img3 img{
-    position: relative;
-    background-position: 50%;
-    background-size: cover;
-    background-repeat: no-repeat;
+.img3 section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: stretch;
 }
 
 
