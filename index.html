@@ -22,6 +22,9 @@
 
 </head>
 <body>
+    <div class="bttn-burguer">
+        boton
+    </div>
     <nav class="container main-nav">
         <div class="row">
             <div class="content">
@@ -194,6 +197,11 @@
     <script src="./js/main.js"></script>
     
     <!-- script -->
+    <script>
+        $(".bttn-burguer").on("click", function(){
+          $("body").toggleClass("show")  
+        })
+    </script>
 
     
 </body>
