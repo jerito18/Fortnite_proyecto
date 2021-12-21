@@ -152,6 +152,15 @@ and (max-width:768px){
 }
 
 /* end */
+.bttn-burguer{
+    position:absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    color: yellow;
+    font-size: 20px;
+    
+}
 
 
 
