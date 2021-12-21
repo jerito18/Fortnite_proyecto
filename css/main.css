@@ -156,11 +156,14 @@ and (max-width:768px){
     position:absolute;
     top: 0;
     left: 0;
+    width:100%;
+    height:auto;
     text-align: center;
     color: yellow;
     font-size: 20px;
-    
+    cursor: pointer;
 }
+
 
 
 
